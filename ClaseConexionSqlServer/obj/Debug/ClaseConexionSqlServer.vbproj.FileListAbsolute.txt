@@ -1,0 +1,10 @@
+C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\bin\Debug\ClaseConexionSqlServer.exe.config
+C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\obj\Debug\prueba_1.Resources.resources
+C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\obj\Debug\ClaseConexionSqlServer.vbproj.GenerateResource.Cache
+C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\bin\Debug\ClaseConexionSqlServer.exe
+C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\bin\Debug\ClaseConexionSqlServer.pdb
+C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\bin\Debug\ClaseConexionSqlServer.xml
+C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\obj\Debug\prueba_1.Conectar.resources
+C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\obj\Debug\ClaseConexionSqlServer.exe
+C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\obj\Debug\ClaseConexionSqlServer.xml
+C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\obj\Debug\ClaseConexionSqlServer.pdb
