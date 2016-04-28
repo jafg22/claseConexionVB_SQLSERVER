@@ -8,3 +8,13 @@ C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\
 C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\obj\Debug\ClaseConexionSqlServer.exe
 C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\obj\Debug\ClaseConexionSqlServer.xml
 C:\Users\jose__000\Documents\Visual Studio 2012\Projects\ClaseConexionSqlServer\ClaseConexionSqlServer\obj\Debug\ClaseConexionSqlServer.pdb
+D:\Github\claseConexionVB_SQLSERVER\ClaseConexionSqlServer\bin\Debug\ClaseConexionSqlServer.exe.config
+D:\Github\claseConexionVB_SQLSERVER\ClaseConexionSqlServer\obj\Debug\ClaseConexionSqlServer.exe
+D:\Github\claseConexionVB_SQLSERVER\ClaseConexionSqlServer\obj\Debug\ClaseConexionSqlServer.xml
+D:\Github\claseConexionVB_SQLSERVER\ClaseConexionSqlServer\obj\Debug\ClaseConexionSqlServer.pdb
+D:\Github\claseConexionVB_SQLSERVER\ClaseConexionSqlServer\bin\Debug\ClaseConexionSqlServer.exe
+D:\Github\claseConexionVB_SQLSERVER\ClaseConexionSqlServer\bin\Debug\ClaseConexionSqlServer.pdb
+D:\Github\claseConexionVB_SQLSERVER\ClaseConexionSqlServer\bin\Debug\ClaseConexionSqlServer.xml
+D:\Github\claseConexionVB_SQLSERVER\ClaseConexionSqlServer\obj\Debug\prueba_1.Conectar.resources
+D:\Github\claseConexionVB_SQLSERVER\ClaseConexionSqlServer\obj\Debug\prueba_1.Resources.resources
+D:\Github\claseConexionVB_SQLSERVER\ClaseConexionSqlServer\obj\Debug\ClaseConexionSqlServer.vbproj.GenerateResource.Cache

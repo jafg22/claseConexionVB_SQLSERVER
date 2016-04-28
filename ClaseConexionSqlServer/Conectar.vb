@@ -9,6 +9,7 @@ Public Class Conectar
             conex.BaseDatos = txtBd.Text.Trim
             conex.Conectar()
             limpiar()
+            MsgBox("Conexión hecha correctamente")
         Catch ex As SqlException
             MsgBox(ex.Message)
         End Try
@@ -20,4 +21,16 @@ Public Class Conectar
         txtServer.Clear()
         txtUsu.Clear()
     End Function
+
+
+   
+    Private Sub txtUsu_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtUsu.KeyPress
+        txtPass.Focus()
+    End Sub
+    Private Sub txtPass_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtPass.KeyPress
+        txtBd.Focus()
+    End Sub
+    Private Sub txtBd_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txtBd.KeyPress
+        txtServer.Focus()
+    End Sub
 End Class
